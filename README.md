@@ -5,7 +5,7 @@
 
 
 
-## Lesson 02
+## Lesson 02: Useful tips, Git, AI Assistant
 
 
 #### Step 1: maven pom.xml settings
